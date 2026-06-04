@@ -2,12 +2,12 @@
 
 ## Level 1 - Task 1: Portfolio Website
 
-Technologies Used:
+### Technologies Used
 
 * HTML
 * CSS
 
-Features:
+### Features
 
 * About Me Section
 * Skills Section
@@ -15,19 +15,63 @@ Features:
 * Resume Download
 * Contact Information
 
+---
+
 ## Level 1 - Task 2: Landing Page
 
-Technologies Used:
+### Project Name
+
+CodeSphere Academy
+
+### Technologies Used
 
 * HTML
 * CSS
 
-Features:
+### Features
 
 * Hero Section
 * Course Cards
 * About Section
 * Contact Section
 * Responsive Design
+* Modern User Interface
 
-Created by Akkarabothu Sravani
+---
+
+## Level 1 - Task 3: Calculator
+
+### Project Name
+
+CalcVerse
+
+### Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+### Features
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Percentage Calculation
+* Clear (AC) Button
+* Backspace Function
+* Modern Glassmorphism Design
+* Responsive Layout
+
+---
+
+### Author
+
+**Akkarabothu Sravani**
+
+B.Tech Student
+KKR & KSR Institute of Technology and Sciences, Guntur
+
+### Repository
+
+CODSOFT - Web Development Internship Projects
